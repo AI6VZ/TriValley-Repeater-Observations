@@ -1,0 +1,74 @@
+Output,Input,Direction,Distance (miles),Repeater,S w/ antenna at 30ft,S w/ antenna at 10ft,Notes
+145.110,144.510,NNE,60,Hear KE6OBO at Sacramento MCW ID at S1. ,S1,nothing heard,
+145.130,144.530,NNE,97,K6IOK at Auburn,S5,S6,
+145.150,144.550,W,32,W6PW at SF,S3,,
+145.170,144.570,E,75,N6FRG at Angels Camp,S2,,
+145.190,144.590,NNE,83,K6IS at Sacramento,S7,,
+145.210,144.610,E,25,"W6SEK at Tracy, Mt Delux",S9,S8,
+145.230,144.630,SW,23,N6NFI at Palo Alto,S9,,
+145.250,144.650,NNE,68,N6NA at Sacramento,S9,,
+145.270,144.670,SSW,23,W6ASH at Mountain View,S1,,
+145.290,144.690,NW,26,KB6LED at Berkeley Grizzly Peak,S7,S5,
+145.310,144.710,NNE,97,AB6LI at Auburn,S4,,
+145.330,144.730,NE,17,K6POU at Concord Mount Diablo,S9,S8,
+145.350,144.750,NW,72,WA6YGD at Santa Rosa,S4,,
+145.370,144.770,SW,26,N6ZX at Woodside,S4,,
+145.390,144.790,SE,29,WD6EJF at Modesto Mt Oso,S3,,
+145.410,144.810,NNE,12,WA6HAM at San Ramon,S9, ,
+145.430,144.830,E,6,KO6PW at Livermore,S9,S9,C4FM
+145.450,144.850,SSW,31,K6FB at Los Gatos,S7,,
+145.470,144.870,NNW,54,"W6VVR at Vacaville, Mt Vaca",S9,,
+145.490,144.890,NW,23,"Orinda, Bald Peak",S5,,
+146.085,146.685,SW,27,WB5NVN at Portola Valley,S3,,Cannot reach  KI6AOZ at Newark 12 mi
+146.115,146.715,S,21,AA6ABT at San Jose,S3,,Check that this is not N6HUH due E at 90M
+146.355,146.955,NNW,14,K6SRM at Danville,S2,,
+146.610,146.010,NNE,81,KS6HRP at Folsom,S9,,
+146.625,146.025,WNW,25,W6MTF at Oakland,S4,,
+146.640,146.040,S,37,WR6ABD at San Jose,S7,,Can also reach W6SAR at Roseville 82mile at S2
+146.655,146.055,E,25,W6LLL at Tracy,S7,,
+146.670,146.070,WNW,25,W6BUR at Oakland,S8,,
+146.700,146.100,WNW,44,K6GWE at Mill Valley,S8,S5, 
+146.730,146.130,NW,72,K6ACS at Santa Rosa,S3,,
+146.745,146.145,SW,24,W6LAH at Los Altos Hills,S5,,
+146.760,146.160,S,37,"WB6OQS at San Jose, Loma Prieta",S4,,
+146.775,146.175,E,6,W6LLL at Livermore,S9,S9,
+146.790,146.190,NNE,77,W6HIR at Fair Oaks,S3,,
+146.805,146.205,NE,95,KA6GWY at Placerville,S4,,
+146.820,146.220,NNW,50,W6BYS at Napa,S8,,
+146.835,146.235,W,33,WD6INC at Daly City,S4,,
+146.850,146.250,NW,25,K6LNK at Oakland Hills. Ann,S9,,
+146.865,146.265,WSW,23,KC6ULT at Redwood City,S5,,
+146.880,146.280,WNW,25,WB6NDJ at Oakland,S2,,
+146.895,146.295,,,, ,,Cant reach any repeater. Nothing heard.
+146.910,146.310,NNE,,W6AK at Sacramento,S8,,
+146.925,146.325,W,34,W6TOW at Pacifica,S4,,
+146.940,146.340,SW,24,K6AIR at Los Altos Hills,S9,,
+146.970,146.370,NNW,73,KE6YUV at Woodland,S1,,
+146.985,146.385,E,37,K6MAN at Manteca,S8,,
+147.000,147.600,,,Heard MCW ID. Unknown repeater,S1,,
+147.015,147.615,E,50,N6GKJ at Copperapolis PL=114.8,S9,,
+147.030,147.630,ESE,100,W6BXN at Mariposa Mount Bullion,S6,,
+147.045,147.645,WSW,4,W6SRR at Pleasanton,S9,,
+147.060,147.660,N,17,W6CX at Concord Mount Diablo,S9,S9,
+147.090,147.690,NE,47,WB6ASU at Lodi Bear Mountain,S8,S7,
+147.105,147.705,,,, ,,Cant reach any repeater. Nothing heard.
+147.120,147.720,E,7,AD6KV at Livermore,S9,,
+147.150,147.750,E,6,KB6FEC at Livermore,S9,S9,DMR
+147.165,147.765,S,21,KB6FEC at San Jose,S7,S5,
+147.180,147.780,NNW,82,W6CO at Napa Mt St Helena,S7,,Can also reach W6WLS Santa Cruz at S4
+147.195,147.795,NNW,54,"N6ICW at Vacaville, Mt Vaca",S9,,
+147.210,147.810,WNW,25,WB6TCS at Oakland Hills,S8,,
+147.240,147.840,WNW,17,W6RGG at San Leandro,S9,,
+147.255,147.855,NE,95,N6QDY at Placerville,S3,S2,
+147.270,147.870,NNW,54,W6AEX at Vacaville Mt Vaca,S9,S9,Can also reach WB6ECE at Salinas Mt Toro S5
+147.285,147.885,S,23,KF6FVO at San Jose,S6,,
+147.300,147.900,NNE,68,K6NP at Sacramento,S7,,
+147.315,147.915,NW,73,W6SON at Sebastapol,S4,,Can also reach N6NMZ at Auburn 
+147.330,147.930,NNE,91,K6PAC at Lincoln,S7,,
+147.360,147.960,SW,28,W6TI at Palo Alto,S8,,
+147.390,147.990,S,28,W6PIY at San Jose,S9,S7,"Net at Tuesday 8:30, maybe earlier"
+147.675,147.075,NNE,81,KS6HRP at Folsom (most likely),S5,S4,C4FM
+147.735,147.135,N,21,WA6HAM at Concord,S9,S5,
+147.825,147.225,WNW,22,KFALA at Alameda,S7,,"Can also reach AG6AU at Camino, S4, NNE 100mi"
+147.945,147.345,SSW,31,AB6LI at Los Gatos,S9,,
+147.975,147.375,,,, ,,Cant reach any repeater. Nothing heard.
