@@ -1,4 +1,4 @@
-# rs
+# Repeater Observations
 This repository will store observations of repeaters from Pleasanton and Livermore area.
 
 
